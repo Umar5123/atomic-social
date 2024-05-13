@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Bounding_box" data-name="Bounding box" d="M0,0H30V30H0Z" fill="#d9d9d9" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-343 -6934)">
+    <g id="mail" transform="translate(349 6940)" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+      <path id="mail-2" data-name="mail" d="M.734,19.266A2.407,2.407,0,0,1,0,17.5V2.5A2.407,2.407,0,0,1,.734.734,2.407,2.407,0,0,1,2.5,0h20a2.407,2.407,0,0,1,1.766.734A2.407,2.407,0,0,1,25,2.5v15A2.507,2.507,0,0,1,22.5,20H2.5A2.407,2.407,0,0,1,.734,19.266ZM2.5,2.5l10,6.25,10-6.25H2.5v15h20V5l-10,6.25L2.5,5m0-2.5v15" transform="translate(2.5 5)" fill="#e67f20" style="mix-blend-mode: normal;isolation: isolate"/>
+    </g>
+    <path id="Rectangle_12345" data-name="Rectangle 12345" d="M33,0a8,8,0,0,1,8,8V33a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(343 6934)" fill="rgba(230,127,32,0.18)" style="mix-blend-mode: normal;isolation: isolate"/>
+  </g>
+</svg>
